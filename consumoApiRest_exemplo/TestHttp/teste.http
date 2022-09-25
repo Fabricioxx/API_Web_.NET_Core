@@ -1,0 +1,6 @@
+
+### retorna o contruso a Api consumida 
+GET https://localhost:7153/api/listar
+
+### buscar por id o objeto da Api consumida
+GET https://localhost:7153/api/buscar/1
