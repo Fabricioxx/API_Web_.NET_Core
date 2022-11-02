@@ -1,5 +1,5 @@
-### API_Web_ASP.NET_Core
-Projetos de aplicativos ASP.NET Core para serviços HTTP RESTful e ASP.NET Core MVC
+### Web Api .NET Core
+Projetos de aplicativos .NET Core para serviços HTTP REST
 
 passo a passo
 
